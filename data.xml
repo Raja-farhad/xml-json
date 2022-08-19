@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+
+
+<ecomerce>
+<electronics xmlns:handfree="https://www.google.com"   xmlns:datacabel="https://www.google.com"   xmlns:charger="https://www.google.com"  xmlns:fan="https://www.google.com"  xmlns:tubelight="https://www.google.com">
+
+
+
+
+<handfree:product>
+<title>hand free</title>
+<description>Definition of hands-free​​ : designed to be used without being held in the hands a hands-free cell phone.
+</description>
+<price>300</price>
+</handfree:product>
+
+
+
+<datacabel:product>
+<title>data cabel</title>
+<description>A data cable is a cable that provides communication between devices. For example, the data cable (i.e., DVI, HDMI, or VGA) that connects your monitor to your computer allow it to display a picture on the monitor. Other popular examples of data cables include the CAT5, IDE/EIDE, SATA, and USB cables.06-Mar-2020
+</description>
+<price>200</price>
+</datacabel:product>
+
+
+
+<charger:product>
+<title>charger</title>
+<description>A charger is the accessory you plug into your phone or laptop when the battery power is low. If you're bringing your digital camera with you on vacation, it's important to remember your charger. Devices that are powered by rechargeable or internal batteries need a charger to keep that battery working.
+</description>
+<price>1000</price>
+</charger:product>
+
+
+2
+<fan:product>
+<title>fan</title>
+<description>A fan is a powered machine used to create a flow of air. A fan consists of a rotating arrangement of vanes or blades, generally made of wood, plastic, or metal, which act on the air. The rotating assembly of blades and hub is known as an impeller, rotor, or runner
+</description>
+<price>5000</price>
+</fan:product>
+
+
+<tubelight:product>
+<title>tube light</title>
+<description>A fluorescent lamp, or fluorescent tube, is a low-pressure mercury-vapor gas-discharge lamp that uses fluorescence to produce visible light. An electric current in the gas excites mercury vapor, which produces short-wave ultraviolet light that then causes a phosphor coating on the inside of the lamp to glow.
+
+Fluorescent lamp - Wikipediahttps://en.wikipedia.org › wiki › Fluorescent_lamp
+
+</description>
+<price>3000</price>
+</tubelight:product>
+
+</electronics>
+
+
+
+
+
+<homeapliance   xmlns:dinner="https://www.google.com"   xmlns:lcd="https://www.google.com"  xmlns:juicer="https://www.google.com"    xmlns:bed="https://www.google.com"  xmlns:iron="https://www.google.com">
+
+<dinner:product>
+<title>dinner set</title>
+<description>
+1. dinner set - a table service for serving dinner. dinner service. table service, service - tableware consisting of a complete set of articles (silver or ...
+</description>
+<price>20000</price>
+</dinner:product>
+
+
+
+<lcd:product>
+<tittle>lcd</tittle>
+<description>LCD (Liquid Crystal Display) is a type of flat panel display which uses liquid crystals in its primary form of operation. LEDs have a large and varying set ...
+</description>
+<price>15000</price>
+</lcd:product>
+
+<juicer:product>
+<title>juicer machine</title>
+<description>
+A juicer, also known as a juice extractor, is a tool used to extract juice from fruits, herbs, leafy greens and other types of vegetables in a process called juicing. It crushes, grinds, and/or squeezes the juice out of the pulp
+</description>
+<price>7000</price>
+</juicer:product>
+
+
+
+<bed:product>
+<title>bed</title>
+<description>1 : a piece of furniture on which a person sleeps or rests. 2 : a place for sleeping or resting Deer made a bed in the grass. 3 : sleep or a time for sleeping She reads before bed. 4 : a piece of ground prepared for growing plants
+</description>
+<price>50000</price>
+</bed:product>
+
+
+<iron:product>
+<title>iron</title>
+<description>Unsourced material may be challenged and removed. A clothes iron (also flatiron, smoothing iron, or simply iron) is a small appliance that, when heated, is used to press clothes to remove wrinkles and unwanted creases.
+</description>
+<price>6000</price>
+</iron:product>
+
+
+
+</homeapliance>
+
+
+
+
+WOMEN DRESS:
+
+<womendress xmlns:weddingdress="https://www.google.com" xmlns:tanktop="https://www.google.com" xmlns:hoodie="https://www.google.com" xmlns:coat="https://www.google.com" xmlns:skirt="https://www.google.com">
+
+    <weddingdress:clothes>
+        <Title>weddingdress</Title>
+        <Description>Dummy Data</Description>
+        <Price>120000</Price>
+        </weddingdress:clothes>
+
+        <tanktop:clothes>
+        <Title>tanktop</Title>
+        <Price>6000</Price>
+        </tanktop:clothes>
+
+        <hoodie:clothes>
+        <Title>hoodie</Title>
+        <Description>Dummy Data</Description>
+        <Price>9000</Price>
+        </hoodie:clothes>
+
+        <coat:clothes>
+        <Title>coat</Title>
+        <Description>Dummy Data</Description>
+        <Price>4000</Price>
+        </coat:clothes>
+
+        <skirt:clothes>
+        <Title>skirt</Title>
+        <Description>Dummy Data</Description>
+        <Price>9000</Price>
+    </skirt:clothes>
+
+</womendress>
+
+
+
+MEN DRESS:
+
+<mendress xmlns:shirt="https://www.google.com" xmlns:jeans="https://www.google.com" xmlns:jacket="https://www.google.com" xmlns:poloshirt="https://www.google.com" xmlns:cargopants="https://www.google.com">
+
+    <shirt:clothes>
+        <Title>shirt</Title>
+        <Description>Dummy Data</Description>
+        <Price>1200</Price>
+        </shirt:clothes>
+
+        <jeans:clothes>
+        <Title>jeans</Title>
+        <Price>3000</Price>
+        </jeans:clothes>
+
+        <jacket:clothes>
+        <Title>jacket</Title>
+        <Description>Dummy Data</Description>
+        <Price>7000</Price>
+        </jacket:clothes>
+
+        <poloshirt:clothes>
+        <Title>poloshirt</Title>
+        <Description>Dummy Data</Description>
+        <Price>3000</Price>
+        </poloshirt:clothes>
+
+        <cargopants:clothes>
+        <Title>cargopants</Title>
+        <Description>Dummy Data</Description>
+        <Price>6000</Price>
+    </cargopants:clothes>
+
+
+</mendress>
+
+
+
+
+</ecomerce>
